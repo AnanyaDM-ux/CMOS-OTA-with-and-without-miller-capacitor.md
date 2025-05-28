@@ -29,7 +29,8 @@ Operational Transconductance Amplifiers (OTAs) are core components in analog and
 - Gain stage with common-source amplifier (M7) and load (M6)
 - Miller compensation using a capacitor from M7's output to its gate
 
-![Miller OTA Circuit](images/miller_ota_circuit.png)
+![Image](https://github.com/user-attachments/assets/a7ed26f4-8cc2-44f4-b0e3-65ebd5f7e895)\
+Miller Compensated Circuit
 
 ---
 
@@ -39,7 +40,8 @@ Operational Transconductance Amplifiers (OTAs) are core components in analog and
 - RC compensation using MOSFET-based transmission gates and capacitive elements
 - Dominant pole placed at output to avoid RHP zero
 
-![Non-Miller OTA Circuit](images/non_miller_ota_circuit.png)
+![Image](https://github.com/user-attachments/assets/32cf4dcb-3f61-47b3-b2da-846e24e75e2f)\
+Without Miller Compensated Circuit
 
 ---
 
